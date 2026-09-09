@@ -1,2 +1,312 @@
-body { color: navy; font-family: Arial; }
-h1 {  color: blueviolet;}
+body {
+    background-color: #e1f4d9;
+    color: #516355;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #476445;body {
+    background-color: #e1f4d9;
+    color: #516355;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #476445;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: rgb(226, 241, 190);
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    text-decoration:line-through;
+}
+
+main {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {body {
+    background-color: #e1f4d9;
+    color: #516355;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #476445;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: rgb(226, 241, 190);
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    text-decoration:line-through;
+}
+
+main {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #566e53;
+    color: rgb(205, 192, 192);
+}
+    line-height: 1.6;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #566e53;
+    color: rgb(205, 192, 192);
+}
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: rgb(226, 241, 190);
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    text-decoration:line-through;
+}
+
+main {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin-top: 20px;body {
+    background-color: #e1f4d9;
+    color: #516355;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #476445;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: rgb(226, 241, 190);
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    text-decoration:line-through;
+}
+
+main {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #566e53;
+    color: rgb(205, 192, 192);
+}
+
+body {
+    background-color: #e1f4d9;
+    color: #516355;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #476445;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: rgb(226, 241, 190);
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    text-decoration:line-through;
+}
+
+main {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #566e53;
+    color: rgb(205, 192, 192);
+}
+
+
+
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #566e53;
+    color: rgb(205, 192, 192);
+}
+
